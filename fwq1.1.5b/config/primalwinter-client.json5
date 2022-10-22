@@ -1,0 +1,16 @@
+{
+	"fogDensity": 0.1,
+	"snowDensity": 15.0,
+	// Enable snow (actually rain) weather sounds.
+	"snowSounds": true,
+	// Enable wind / snow storm weather sounds.
+	"windSounds": true,
+	// This is the fog color during the day. Default = #BFBFD8
+	"fogColorDay": 12566488,
+	// This is the fog color during the night. Default = #0C0C19
+	"fogColorNight": 789529,
+	// Changes the weather renderer to one which renders faster, denser snow. Note: this requires a world reload to take effect.
+	"weatherRenderChanges": true,
+	// Changes the sky renderer to one which does not render sunrise or sunset effects during a snowstorm. Note: this requires a world reload to take effect.
+	"skyRenderChanges": true
+}

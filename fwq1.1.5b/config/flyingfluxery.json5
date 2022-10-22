@@ -1,0 +1,8 @@
+{
+	"numbers": {
+		"hPDLaunchPower": 1.25,
+		"strafeSpeed": 0.30000001192092896,
+		"hPDCooldown": 10,
+		"doCrunch": false
+	}
+}

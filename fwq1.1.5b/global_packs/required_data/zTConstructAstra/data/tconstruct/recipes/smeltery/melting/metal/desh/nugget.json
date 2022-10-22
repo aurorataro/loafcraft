@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:item_tags_populated",
+      "values": [
+        "c:desh_nuggets"
+      ]
+    }
+  ],
+  "ingredient": {
+    "tag": "c:desh_nuggets"
+  },
+  "result": {
+    "fluid": "kubejs:molten_desh",
+    "amount": 1000
+  },
+  "temperature": 800,
+  "time": 22
+}
